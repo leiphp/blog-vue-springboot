@@ -3,7 +3,11 @@ Vue + SpringBoot实现的博客系统
 
 线上地址：<a target="_blank" href="http://shiminghui.top:8000">For Fun</a>
 
-## ssr 服务端渲染版本 
+## 运行注意事项  
+ 1. 直接创建blog数据库，运行blog.sql文件即可  
+ 2. 后台登陆密码：shimh 123456
+
+## ssr 服务端渲染版本
 
 <a href="https://github.com/shimh-develop/blog-vue-springboot/tree/ssr" target="_blank">ssr分支</a>
 
@@ -108,6 +112,3 @@ Vue + SpringBoot实现的博客系统
 3. 访问：http://localhost:8080
 4. 修改blog-app/src 下的文件进行开发
 5. npm run build 生成最终静态文件
-
-
-
